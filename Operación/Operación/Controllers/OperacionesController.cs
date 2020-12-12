@@ -27,7 +27,6 @@ namespace Operación.Controllers
 
             return respuesta;
 
-
         }
     }
 }
